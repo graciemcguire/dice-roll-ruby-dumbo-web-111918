@@ -4,5 +4,6 @@
 
 def roll
   array = [1..6]
+  num = 
   
 end
