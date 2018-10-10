@@ -4,6 +4,6 @@
 
 def roll
   array = [1..6]
-  num = 
+  num = array[]
   
 end
